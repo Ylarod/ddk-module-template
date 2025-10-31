@@ -1,6 +1,6 @@
 {
   "name": "ddk-module-dev",
-  "image": "ghcr.io/ylarod/ddk:android12-5.10",
+  "image": "ghcr.io/ylarod/ddk:android16-6.12",
   "remoteUser": "root",
   "postCreateCommand": "echo Devcontainer ready",
   "customizations": {
